@@ -2,6 +2,7 @@
 Official Pytorch implementation of [Target Class Unlearning for Conditional Generative Adversarial Networks] (IPIU 2023).
 
 Authors: Sanghyuk Moon, Je Hyeong Hong
+
 <img src=https://github.com/mshdjren/Target-class-Unlearning/blob/main/assets/main_poster.png width="400" height="200"> <img src=https://github.com/mshdjren/Target-class-Unlearning/blob/main/assets/result_poster.png width="400" height="200">
 
 ## Abstract
