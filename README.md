@@ -10,7 +10,12 @@ Machine unlearning 은 사전 학습된 네트워크에서 특정 데이터 또�
 
 ## requirements:
 
+
 ## How to run our code
+Our code built upon the repository of PyTorch-GAN.
+We borrowed most of the implementation of conditional generation framework from PyTorch-GAN repository.
+Thanks to eriklindernoren for your contribution.
+
 
 ## Citation
 ---
