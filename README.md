@@ -35,13 +35,13 @@ We borrowed most of the implementation of conditional generation framework from 
 
 Thanks to eriklindernoren for your contribution.
 
-**Training (Target-class unleraning for specific class)**
+- **Training (Target-class unleraning for specific class)**
 ````
 $ cd implementations/acgan/
 $ python3 acgan.py
 ````
 
-**Testing (generating forgetting/remaining classes images)**
+- **Testing (generating forgetting/remaining classes images)**
 ````
 $ cd implementations/acgan/
 $ python3 acgan.py
