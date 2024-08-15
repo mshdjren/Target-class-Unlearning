@@ -3,7 +3,7 @@ Official Pytorch implementation of [Target Class Unlearning for Conditional Gene
 
 Authors: Sanghyuk Moon, Je Hyeong Hong
 
-<img src=https://github.com/mshdjren/Target-class-Unlearning/blob/main/assets/main_poster.png height=300, weidth=600> 
+<img src=https://github.com/mshdjren/Target-class-Unlearning/blob/main/assets/main_poster.png height=300, weidth=1200> 
 <img src=https://github.com/mshdjren/Target-class-Unlearning/blob/main/assets/result_poster.png height=300, width=600>
 
 ## Abstract
