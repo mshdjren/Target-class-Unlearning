@@ -43,8 +43,6 @@ $ cd implementations/acgan/
 $ python3 acgan.py
 ````
 
-## Citation
-
 ## License
 A patent application for XMP has been submitted and is under review for registration. XMP is licensed under the CC-BY-NC-SA-4.0 license limiting any commercial use.
 
