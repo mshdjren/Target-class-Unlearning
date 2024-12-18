@@ -1,7 +1,7 @@
 # Target-class-Unlearning
-Official Pytorch implementation of [Target Class Unlearning for Conditional Generative Adversarial Networks] (IPIU 2023).
+Official Pytorch implementation of [조건부 적대적 신경망에 대한 선택적 망각 기법] (IPIU 2023).
 
-Authors: Sanghyuk Moon, Je Hyeong Hong
+Authors: 문상혁, 홍제형
 
 <img src=https://github.com/mshdjren/Target-class-Unlearning/blob/main/assets/main_poster.png height="500" width="900"> 
 <img src=https://github.com/mshdjren/Target-class-Unlearning/blob/main/assets/result_poster.png>
