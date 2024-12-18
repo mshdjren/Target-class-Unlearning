@@ -1,7 +1,7 @@
 # Target-class-Unlearning
 **[IPIU 2023] 조건부 적대적 신경망에 대한 선택적 망각 기법**
 
-논문 저자: 문상혁, 홍제형
+저자: 문상혁, 홍제형
 
 <img src=https://github.com/mshdjren/Target-class-Unlearning/blob/main/assets/main_poster.png height="500" width="900"> 
 <img src=https://github.com/mshdjren/Target-class-Unlearning/blob/main/assets/result_poster.png>
