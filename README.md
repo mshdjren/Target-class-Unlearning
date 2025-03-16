@@ -33,13 +33,11 @@ CGAN에 대한 코드는 [PyTorch-GAN](https://github.com/eriklindernoren/PyTorc
 
 - **Training (Target-class unleraning for specific class)**
 ````
-$ cd implementations/acgan/
 $ python3 acgan.py
 ````
 
 - **Testing (generating forgetting/remaining classes images)**
 ````
-$ cd implementations/acgan/
 $ python3 acgan.py
 ````
 
